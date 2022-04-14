@@ -3,7 +3,7 @@ fileignoreconfig:
 - filename: .terraform.lock.hcl
   checksum: b24545840943f4a0c38828ea33c418e5beffbb89e48dc61a589f98c8c273f3b0
 - filename: array-of-kv.json
-  checksum: 8c0818988f952d58e38c8e7df975e410507b1c108fd433baa6d4d6310508915f
+  checksum: 9fb0f73fe82e055e61ce5ae3a500555eb9d2e4f623e0872b622d7c4b5eb5e73e
 - filename: kv.json
   checksum: 56212ff1d05ea904e2bc0b547c160900e89009ce242b7003c2b59cc774ef67cb
 - filename: nested.json
